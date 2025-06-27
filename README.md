@@ -17,6 +17,4 @@ This notebook analyzes the relationship between trader performance and market se
 - PnL tends to be more volatile during **Extreme Fear**.
 - Trade size and direction show clear trends across different market sentiments.
 
-## 📬 Contact:
-Prepared by Isha Ansari  
-For the role: *Junior Data Scientist – Trader Behavior Insights*
+
